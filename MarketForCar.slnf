@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "C:\\Users\\ralic\\Desktop\\CarMarketApp-master (1)\\CarMarketApp-master\\MarketForCar.sln",
+    "projects": [
+      "CarMarket.Common\\MarketForCar.Common.csproj",
+      "Data\\CarMarket.Data.Common\\MarketForCar.Data.Common.csproj",
+      "Data\\CarMarket.Data.Models\\MarketForCar.Data.Models.csproj",
+      "Data\\CarMarket.Data\\MarketForCar.Data.csproj",
+      "Services\\CarMarket.Services.Data\\CarMarket.Services.Data.csproj",
+      "Web\\CarMarket.Web.ViewModels\\CarMarket.Web.ViewModels.csproj",
+      "Web\\CarMarket.Web\\CarMarket.Web.csproj"
+    ]
+  }
+}
